@@ -90,4 +90,3 @@ src/
 5. **Estrutura do projeto**: Visão geral da organização dos arquivos.
 6. **Como contribuir**: Guia para contribuir com o projeto.
 7. **Tecnologias utilizadas**: Lista das principais tecnologias usadas.
-8. **Contato**: Informações para entrar em contato com o autor.
